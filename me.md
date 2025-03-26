@@ -1,6 +1,7 @@
 # Men haqimda
 
-### Ismim : ** Ezoza **
+### Ismim :
+** Ezoza **
 ### Yoshim : * 20 *da
 
 ## Qiziqishlarim:
